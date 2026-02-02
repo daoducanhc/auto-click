@@ -1,8 +1,8 @@
 # 1
-chmod +x setup.sh run.sh
+`chmod +x setup.sh run.sh`
 
 # 2
-./setup.sh
+`./setup.sh`
 
 # 3
-./run.sh
+`./run.sh`
